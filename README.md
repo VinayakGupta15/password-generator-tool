@@ -35,7 +35,7 @@ This Password Generator Tool is a Python-based application designed to help user
 3. **Run the Script**  
    You can run the password generator script using the following command:
    ```bash
-   python3 password_generator.py
+   python3 password-generator.py
    ```
 
 ## Usage
